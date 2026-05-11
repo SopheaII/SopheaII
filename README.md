@@ -23,21 +23,7 @@ Building Web, AI tools, backend systems.
 
 ## 📊 GitHub Activity
 
-<img src="https://ghchart.rshah.org/SopheaII" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SopheaII&theme=github_dark" />
 
----
-
-## 🔥 Activity Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SopheaII&theme=github-compact&hide_border=true" />
-
----
-
-## 🌐 Links
-
-- 🌍 Website: https://camify.design  
-- 💻 GitHub: https://github.com/SopheaII  
-
----
 
 > Build useful things consistently.
