@@ -1,54 +1,43 @@
-# Hi there 👋
+# Sophea 👋
 
-I'm Sophea, a software developer from Cambodia 🇰🇭
+Software Developer & Founder of [camify.design](https://camify.design) 🇰🇭  
+Building Web, AI tools, backend systems.
 
-I enjoy building:
-- SaaS products
-- AI-powered tools
-- School & business management systems
-- Automation platforms
-- Infrastructure & backend systems
+---
+
+## ⚡ Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,react,nextjs,nodejs,docker,redis,postgres,mysql,aws,ubuntu,nginx,cloudflare,git" />
+</p>
+
+---
 
 ## 🚀 Current Focus
 
-- Building software for local Cambodian businesses
-- Exploring AI + automation
-- Improving system performance & scalability
-- Cloud infrastructure & DevOps
+- Software for Cambodian businesses
+- Backend architecture & scalable systems
+- Maps & address data systems
 
-## 🛠 Tech Stack
+---
 
-### Backend
-- .NET / ASP.NET Core
-- Node.js
-- REST APIs
-- Redis
-- PostgreSQL
-- SQL Server
+## 📊 GitHub Activity
 
-### Frontend
-- React
-- Next.js
-- Tailwind CSS
+<img src="https://ghchart.rshah.org/SopheaII" />
 
-### DevOps & Infra
-- Docker
-- Ubuntu Server
-- Nginx
-- Cloudflare
-- DigitalOcean
-- AWS
+---
 
-### Other Interests
-- AI tools
-- System design
-- Product development
-- Performance optimization
+## 🔥 Activity Graph
 
-## 🌱 Goals
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SopheaII&theme=github-compact&hide_border=true" />
 
-- Build scalable SaaS products
-- Create technology that helps local businesses
-- Achieve location-independent work freedom
+---
 
-> “Build useful things consistently.”
+## 🌐 Links
+
+- 🌍 Website: https://camify.design  
+- 💻 GitHub: https://github.com/SopheaII  
+
+---
+
+> Build useful things consistently.
