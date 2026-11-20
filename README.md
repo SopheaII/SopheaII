@@ -1,6 +1,6 @@
 # Sophea 👋
 
-Software Developer & Founder of [camify.design](https://camify.design) 🇰🇭  
+Software Developer 🇰🇭  
 Building Web, AI tools, backend systems.
 
 ---
